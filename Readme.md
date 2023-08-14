@@ -32,6 +32,8 @@ GPIO制御用にはpigpioライブラリを使用しています。最初、RPi.
 
 ## 実行の様子
 
+https://github.com/led-mirage/Raspi4-LEDBlink-pigpio/assets/139528700/8a2206b7-bbbd-48aa-adac-f86a6b4228e9
+
 ## 実行環境
 
 - Raspberry Pi 4 Model B 4GB
