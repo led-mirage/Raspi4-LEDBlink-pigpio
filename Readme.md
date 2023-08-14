@@ -90,7 +90,7 @@ sudo systemctl start pigpiod
 ラズパイのターミナルを開き、プログラムをクローンしたいディレクトリに移動し、次のコマンドを実行します。
 
 ```bash
-git clone 
+git clone https://github.com/led-mirage/Raspi4-LEDBlink-pigpio.git
 ```
 
 ### 実行
